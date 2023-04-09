@@ -1,4 +1,4 @@
-# A Telegram bot that sends GIFs with cats at random times 
+# A Telegram bot that sends GIFs at random times 
 Chatbot Project
 
 This is a Python-based chatbot project that send users random cat GIFs (utilizing GIPHY API) at random times (intervals between 15 and 60 mins).
