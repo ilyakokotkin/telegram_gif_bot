@@ -10,14 +10,11 @@ git clone https://github.com/ilyakokotkin/telegram_gif_bot.git
 Usage
 
 To use the chatbot:
+1. Download python script
+2. Put your own Telegram bot token and GIPHY API keys in the code
+3. Run the following command in your terminal:
 
-    Download python script
-
-    Put your own Telegram bot token and GIPHY API keys in the code
-
-    Run the following command in your terminal:
-
-python3 telegram_bot.py
+   python3 telegram_bot.py
 
 The bot will start running and you can interact with it by typing /start.
 Contributing
