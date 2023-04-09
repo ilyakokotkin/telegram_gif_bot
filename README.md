@@ -1,4 +1,3 @@
-# telegram_gif_bot
 A Telegram bot that sends GIFs with cats at random times 
 Chatbot Project
 
